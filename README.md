@@ -25,9 +25,7 @@ Here's how you can start using Classy Weather:
 
 3. Launch the Development Server:
 
-   Start the development server to run Classy Weather locally:
-
-   `npm run dev`
+   Start the development server to run Classy Weather locally: `npm run dev`
 
    Then you can Access the app in your web browser by going to `http://localhost:3000`
 
