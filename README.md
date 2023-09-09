@@ -2,7 +2,7 @@
 
 ## About Classy Weather
 
-Classy Weather is a user-friendly web app that offers real-time weather data for any city or location on the globe. Whether you're planning a trip, checking the weather back home, or just staying informed, Classy Weather has you covered. We built this app using [Vite](https://vitejs.dev/) for a fast and efficient development experience, and we rely on trusted weather APIs to provide you with accurate and up-to-date information.
+Classy Weather is a user-friendly web app providing real-time weather data worldwide. Built with [Vite](https://vitejs.dev/) for efficiency, it utilizes trusted weather APIs for accuracy. Stay informed wherever you are.
 
 ## How to Install
 
@@ -12,7 +12,6 @@ To get Classy Weather up and running on your local machine, follow these simple 
 
    1.1 clone the repo: `git clone https://github.com/your-username/Classy-Weather.git`
    1.2 Navigate to the project directory: `cd Classy-Weather`
-
 
 2. Install Dependencies:
 
