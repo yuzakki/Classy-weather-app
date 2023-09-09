@@ -10,7 +10,7 @@ To get Classy Weather up and running on your local machine, follow these simple 
 
 1. Clone the Repository:
 
-   1. Clone the repository: `git clone https://github.com/your-username/Classy-Weather.git`
+   1. Clone the repository: `https://github.com/yuzakki/classy-weather-app.git`
    2. Navigate to the project directory: `cd classy-weather-app`
 
 2. Install Dependencies:
@@ -27,6 +27,6 @@ Here's how you can start using Classy Weather:
 
    Start the development server to run Classy Weather locally: `npm run dev`
 
-   Then you can Access the app in your web browser by going to `http://localhost:3000`
+   Then you can access the app in your web browser by going to `http://localhost:3000`
 
 ### yep! 🙌
