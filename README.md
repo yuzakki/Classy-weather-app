@@ -1,7 +1,5 @@
 # Classy Weather App - React
 
-Classy Weather is your solution for quickly checking the weather conditions anywhere in the world. This web-based weather application provides real-time weather information for any location, keeping you informed about the latest weather updates.
-
 ## About Classy Weather
 
 Classy Weather is a user-friendly web app that offers real-time weather data for any city or location on the globe. Whether you're planning a trip, checking the weather back home, or just staying informed, Classy Weather has you covered. We built this app using [Vite](https://vitejs.dev/) for a fast and efficient development experience, and we rely on trusted weather APIs to provide you with accurate and up-to-date information.
