@@ -29,4 +29,6 @@ Here's how you can start using Classy Weather:
 
    `npm run dev`
 
+   Then you can Access the app in your web browser by going to `http://localhost:3000`
+
 ### yep! 🙌
