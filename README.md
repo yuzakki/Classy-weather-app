@@ -10,8 +10,8 @@ To get Classy Weather up and running on your local machine, follow these simple 
 
 1. Clone the Repository:
 
-   1. Clone the repository: `https://github.com/yuzakki/classy-weather-app.git`
-   2. Navigate to the project directory: `cd classy-weather-app`
+   1. Clone the repository: `https://github.com/yuzakki/Classy-weather-app.git`
+   2. Navigate to the project directory: `cd Classy-weather-app`
 
 2. Install Dependencies:
 
